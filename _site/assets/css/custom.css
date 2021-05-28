@@ -4,14 +4,6 @@ body {
   padding: 0;
 }
 
-header {
-  height: 50px;
-  text-align: center;
-  background-color: #FFB8A2;
-  background: url(/assets/images/goldheader.jpg) no-repeat center top fixed;
-  background-size: cover;
-}
-
 footer {
   text-align: center;
   border-color: #782F40;
@@ -24,7 +16,8 @@ footer a {
 }
  
  h1 {
-   color: #FFFFFF;
+   text-align: center;
+   color: #000000;
    font-size: 40pt;
    text-shadow: 0 1.5px 1.5px rgba(44,42,41,.25);
 }
@@ -38,7 +31,7 @@ a {
 }
 
 .container {
-  padding: 50px;
+  padding-left: 70px;
 }
 
 .preview {
@@ -54,6 +47,12 @@ a {
   min-height: 300px;
 }
 
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 table {
   width: 100%;
   padding: 30px;
@@ -62,6 +61,17 @@ table {
 td {
   text-align: center;
   padding: 10px;
+}
+
+input {
+  background-color: #782F40;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 
 div#publications img {
@@ -151,7 +161,7 @@ div#publications img {
     }
 
     header{
-        padding:150px;
+        padding-top:70px;
     }
 }
 @media screen and (max-width: 800px) {
@@ -170,7 +180,7 @@ div#publications img {
 
     header {
         height:100px;
-        padding:100px;
+        padding-top:50px;
     }
     nav a {
         width:70px;
@@ -242,7 +252,7 @@ div#publications img {
 
     header {
 	     height:100px;
-	     padding-top:300px;
+	     padding-top:400px;
     }
 
     h1 {
