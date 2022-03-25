@@ -4,46 +4,59 @@ title: Workshop Schedule
 permalink: /schedule/
 ---
 
-**Workshop Date: October 4-6, 2021**<br/>
-**Location: Strozier Libraries, Florida State University**
+**Workshop Date: April 4-7, 2022**<br/>
+**Location: Virtual**
 
-This is the rough workshop schedule as found in the grant narrative. Additional details and materials will be provided as we approach the workshop date.
+### Monday
 
-### Day 1
+**Opening Session - 9-10:30am**
 
-**Morning Session**
+* Introduction to the goals of the workshop 
+* Introduction of participants
 
-* Introduction of participants and related projects
-* Collection of requirements based on participant projects
+**Break - 10:30-10:45am**
 
-**Afternoon Session**
+**Project Examples - 10:45am-1pm**
 
-* Create formal user requirements
-* Create user stories for different populations
-  * Submitters
-  * Administrators
-  * Other users
+* Generating Examples of Prosopographic Data Projects
+* Synthesizing a List of Common Features 
 
-### Day 2
+### Tuesday
 
-**Morning Session**
+**Recap and Introduction to Personas - 9am-10am**
 
-* Metadata for datasets
-  * Subject-specific metadata standards
-  * Administrative metadata
-* Data citation practices
-* Digital Object Identifiers
+* Recap yesterday's session 
+* Discuss the "user stories" and "personas" as a way 
 
-**Afternoon Session**
-* Outline technical requirements for different types of users
+**Persona Generation, part 1 - 10am-10:30**
 
-### Day 3
+* Create a list of types of users for a prosopography data repository
 
-**Morning Session**
+**Break - 10:30-10:45am**
 
-* Overview of standard repository platforms and other content management systems
-  * Outline features and requirements for each platform
+**Persona Generation, part 2 - 10:45am-1pm**
 
-**Afternoon Session**
+* Create detailed personas for each possible user type
 
-* Wrap up and next steps
+### Wednesday
+
+**Submission Metadata Requirements - 9am-10:30am**
+
+* Discuss metadata requirements for submission to a possible future repository
+* Generate list of required metadata for submission of data sets 
+
+**Break - 10:30-10:45am**
+
+**Administrative Metadata Requirements - 10:45am-1pm**
+
+* What metadata needs to be kept about the creation and management of the data?
+* Rights statements, access controls, version management
+
+### Thursday
+
+**Wrap-up and next steps - 9am-12pm**
+
+* What was not covered in this discussion that should be addressed in next steps?
+* What stakeholders should be involved in future iterations of this discussion?
+* How do we facilitate data sharing while we wait for the funding and development of this data repository?
+
