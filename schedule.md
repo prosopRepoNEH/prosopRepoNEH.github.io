@@ -26,7 +26,7 @@ permalink: /schedule/
 **Recap and Introduction to Personas - 9am-10am**
 
 * Recap yesterday's session 
-* Discuss the "user stories" and "personas" as a way 
+* Discuss the "user stories" and "personas" as a way to talk about how the site will be used
 
 **Persona Generation, part 1 - 10am-10:30**
 
