@@ -1,5 +1,3 @@
-# Florida State Open Publishing Website
+# Data Repository Infrastructure for Prosopographies  
 
-This is the website for Florida State Open Publishing, an initiative of Florida State University Libraries.
-
-This site contains information on publication projects, news, and events for the open publishing program at FSU.
+This is the website for the NEH-funded workshop on Repository Infrastructure for Prosopographic Data.
